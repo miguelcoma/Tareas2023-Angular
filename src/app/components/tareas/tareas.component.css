@@ -1,0 +1,16 @@
+input {
+  text-align: center;
+}
+
+.form-control-lg {
+  font-size: 1.8rem;
+}
+
+h6 {
+  font-size: large;
+  text-align: center;
+}
+
+.cursor {
+  cursor: pointer;
+}
